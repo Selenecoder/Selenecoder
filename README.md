@@ -1,6 +1,6 @@
 <!-- 👆 Banner image -->
 <p align="center">
-  <img src="banner-git.png" alt="banner" width="160" />
+  <img src="./banner-git.png" alt="Saumya Tandon Banner" width="100%" />
 </p>
 
 # 👋 Hi, I'm **Saumya Tandon** (aka `@Selenecoder`)
