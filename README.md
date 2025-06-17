@@ -11,24 +11,45 @@
 
 ---
 
-## ⚡ Tech Stack
+## ## 🔧 Tech Stack
 
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php)
-![SQL](https://img.shields.io/badge/-SQL-2C3E50?style=for-the-badge&logo=mysql)
-![Java](https://img.shields.io/badge/-Java-FC6604?style=for-the-badge&logo=java)
-<br>
-![Frontend GIF](https://user-images.githubusercontent.com/yourname/animated-frontend.gif)
+### 🗣️ Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+---
+
+### 🧩 Frameworks / Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+🧩 `shadcn/ui` *(custom component library; no badge available)*
+
+---
+
+### 🛠️ Tools & IDEs
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🪙 [**VyaySigh – Smart Expense Tracker**](https://github.com/Selenecoder/vyaysigh)
+### 📊 [**VyaySigh – Smart Expense Tracker**](https://github.com/Selenecoder/vyaysigh)
 Full-stack finance app: JWT auth, savings goals, charts. React + Spring Boot + Postgres.
 
-### 📊 [**Expense Tracker Frontend**](https://github.com/Selenecoder/expense-tracker)
+### 🩺 MediBuddy – Healthcare Platform [https://github.com/Selenecoder/Medi-buddy]
+A responsive, dummy healthcare diagnostic site built using HTML, CSS, Bootstrap & PHP. Includes appointment booking simulation and clean modular structure.
 A clean React/JS app to manage and filter expenses with add/edit/delete functionalities.
 
 ---
