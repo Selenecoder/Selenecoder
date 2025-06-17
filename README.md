@@ -1,22 +1,53 @@
-# 👋 Hi, I’m Saumya Tandon (a.k.a @Selenecoder)
+<!-- 👆 Banner image -->
+<p align="center">
+  <img src="profile-pic.png" alt="Saumya Tandon" width="160" />
+</p>
 
-🌟 I'm a passionate Front-End & Web Developer who loves building responsive, user-friendly web apps.  
-💻 Currently exploring **Backend Development** with java and integrating APIs into projects.   
-🚀 Contributor at **GirlScript Summer of Code 2024** | **Postman Student Expert**  
-🎯 Participating in **Flipkart GRiD 7.0** SDE Track-actively building skills in problem-solving and full-stack development.
+# 👋 Hi, I'm **Saumya Tandon** (aka `@Selenecoder`)
 
-## 🔧 Tech Stack
-- Languages: JavaScript, Java (Intermediate), HTML, CSS, PHP, C
-- Frameworks/Libraries: React.js, Tailwind CSS, shadcn/ui, Bootstrap
-- Tools: Git, GitHub, Postman, XAMPP, VS Code, MySQL, IntelliJ IDEA
+**💻 Front‑End & Web Developer | PHP + SQL Backend | Java Enthusiast**  
+🎓 Computer Science Student • 📍 Ujjain, India • Pronouns: She/Her  
+[📫 Connect on LinkedIn](https://www.linkedin.com/in/saumya-tandon-2824sau301) • tsaumya176@gmail.com
 
-## 🔍 Interests
-- Backend logic, REST APIs, and building full-stack apps
-- Open source collaboration
-- Technical writing & helping others grow
+---
 
-## 💡 Fun Fact
-I'm also a trained **dancer**, active **MUNer**, and student leader.  
-Let’s connect and build something awesome!
+## ⚡ Tech Stack
 
-📫 **Reach me on [LinkedIn](http://www.linkedin.com/in/saumya-tandon-2824sau301)**
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php)
+![SQL](https://img.shields.io/badge/-SQL-2C3E50?style=for-the-badge&logo=mysql)
+![Java](https://img.shields.io/badge/-Java-FC6604?style=for-the-badge&logo=java)
+<br>
+![Frontend GIF](https://user-images.githubusercontent.com/yourname/animated-frontend.gif)
+
+---
+
+## 🚀 Featured Projects
+
+### 🪙 [**VyaySigh – Smart Expense Tracker**](https://github.com/Selenecoder/vyaysigh)
+Full-stack finance app: JWT auth, savings goals, charts. React + Spring Boot + Postgres.
+
+### 📊 [**Expense Tracker Frontend**](https://github.com/Selenecoder/expense-tracker)
+A clean React/JS app to manage and filter expenses with add/edit/delete functionalities.
+
+---
+
+## 🌟 Open Source & Achievements
+
+- Contributor @ GirlScript Summer of Code 2024  
+- Postman Student Expert  
+- CTC Coding Club Co-Lead • MLA Workshops Organizer
+
+---
+
+## 🎭 Fun Facts
+
+I’m an enthusiastic **dancer**, an engaged **MUNer**, and passionate about creating UIs that move both *pixels and people*.
+
+---
+
+## 📈 GitHub Stats
+
+![Saumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Selenecoder&show_icons=true&theme=default)
+
