@@ -45,7 +45,7 @@
 
 ## 🚀 Featured Projects
 
-### 📊 [**VyaySigh – Smart Expense Tracker**](https://github.com/Selenecoder/vyaysigh)
+### 📊 [**VyaySigh – Smart Expense Tracker**](https://github.com/Selenecoder/expense-tracker)
 Full-stack finance app: JWT auth, savings goals, charts. React + Spring Boot + Postgres.
 
 ### 🩺 [**MediBuddy – Healthcare Platform**](https://github.com/Selenecoder/Medi-buddy)
