@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @Selenecoder
-- 👀 I’m interested in backend
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on opensource projects
-- 📫 How to reach me through LinkedIn - http://www.linkedin.com/in/saumya-tandon-2824sau301
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm a dancer and MUNer
+# 👋 Hi, I’m Saumya Tandon (a.k.a @Selenecoder)
 
-<!---
-Selenecoder/Selenecoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌟 I'm a passionate Front-End & Web Developer who loves building responsive, user-friendly web apps.  
+💻 Currently exploring **Backend Development** with java and integrating APIs into projects.   
+🚀 Contributor at **GirlScript Summer of Code 2024** | **Postman Student Expert**  
+🎯 Participating in **Flipkart GRiD 7.0** SDE Track-actively building skills in problem-solving and full-stack development.
+
+## 🔧 Tech Stack
+- Languages: JavaScript, Java (Intermediate), HTML, CSS, PHP, C
+- Frameworks/Libraries: React.js, Tailwind CSS, shadcn/ui, Bootstrap
+- Tools: Git, GitHub, Postman, XAMPP, VS Code, MySQL, IntelliJ IDEA
+
+## 🔍 Interests
+- Backend logic, REST APIs, and building full-stack apps
+- Open source collaboration
+- Technical writing & helping others grow
+
+## 💡 Fun Fact
+I'm also a trained **dancer**, active **MUNer**, and student leader.  
+Let’s connect and build something awesome!
+
+📫 **Reach me on [LinkedIn](http://www.linkedin.com/in/saumya-tandon-2824sau301)**
