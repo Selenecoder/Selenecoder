@@ -1,6 +1,6 @@
 <!-- 👆 Banner image -->
 <p align="center">
-  <img src="profile-pic.png" alt="Saumya Tandon" width="160" />
+  <img src="banner git.png" alt="banner" width="160" />
 </p>
 
 # 👋 Hi, I'm **Saumya Tandon** (aka `@Selenecoder`)
