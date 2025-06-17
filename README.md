@@ -27,7 +27,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-🧩 `shadcn/ui` *(custom component library; no badge available)*
+
 
 ---
 
@@ -48,7 +48,7 @@
 ### 📊 [**VyaySigh – Smart Expense Tracker**](https://github.com/Selenecoder/vyaysigh)
 Full-stack finance app: JWT auth, savings goals, charts. React + Spring Boot + Postgres.
 
-### 🩺 MediBuddy – Healthcare Platform [https://github.com/Selenecoder/Medi-buddy]
+### 🩺 [**MediBuddy – Healthcare Platform**](https://github.com/Selenecoder/Medi-buddy)
 A responsive, dummy healthcare diagnostic site built using HTML, CSS, Bootstrap & PHP. Includes appointment booking simulation and clean modular structure.
 A clean React/JS app to manage and filter expenses with add/edit/delete functionalities.
 
