@@ -68,6 +68,13 @@ I’m an enthusiastic **dancer**, an engaged **MUNer**, and passionate about cre
 
 ---
 
+### 🏅 Certifications
+
+![Postman Student Expert](https://github.com/Selenecoder/Selenecoder/raw/main/Postman%20-%20badge.png)
+
+
+---
+
 ## 📈 GitHub Stats
 
 ![Saumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Selenecoder&show_icons=true&theme=default)
