@@ -20,6 +20,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ---
 
@@ -27,7 +29,9 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
@@ -51,6 +55,9 @@ Full-stack finance app: JWT auth, savings goals, charts. React + Spring Boot + P
 ### 🩺 [**MediBuddy – Healthcare Platform**](https://github.com/Selenecoder/Medi-buddy)
 A responsive, dummy healthcare diagnostic site built using HTML, CSS, Bootstrap & PHP. Includes appointment booking simulation and clean modular structure.
 A clean React/JS app to manage and filter expenses with add/edit/delete functionalities.
+
+### 🛰️ [**Satellite Telemetry Simulator – Real-Time Dashboard**](https://github.com/Selenecoder/Satellite-Telemetry-Simulator)
+Simulates satellite telemetry data with live charts, alerts, fullscreen view toggle, and CSV export. Built using Python and Streamlit.
 
 ---
 
