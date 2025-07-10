@@ -84,5 +84,6 @@ I’m an enthusiastic **dancer**, an engaged **MUNer**, and passionate about cre
 
 ## 📈 GitHub Stats
 
-![Saumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Selenecoder&show_icons=true&theme=default)
+![Saumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Selenecoder&show_icons=true&theme=default&cache_bust=1)
+
 
